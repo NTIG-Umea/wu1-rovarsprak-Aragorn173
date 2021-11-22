@@ -1,10 +1,13 @@
 html, body {
     height: 100%;
     margin: 0;
+    background-color: black;
+    background-image: image-set(matrix);
 }
 
 body {
     display: flex;
+    color: #00FF00;
 }
 
 header {
